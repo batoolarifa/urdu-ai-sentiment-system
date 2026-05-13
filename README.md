@@ -2,7 +2,6 @@
 
 ### Fine-tuning mBERT for Low-Resource Urdu NLP + Real-Time Deployment
 
-<br>
 
 ##  **Project Overview**
 
@@ -10,8 +9,7 @@ This project presents an **end-to-end Urdu sentiment analysis system** built by 
 
 It demonstrates a complete NLP pipeline from <br>
 
->  **data preprocessing → model training → evaluation → deployment**.
-
+ **data preprocessing → model training → evaluation → deployment**.
 
 ## **Problem Statement**
 
